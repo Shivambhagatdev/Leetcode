@@ -16,6 +16,7 @@ My LeetCode DSA Solutions
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Shivambhagatdev/Leetcode/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/Shivambhagatdev/Leetcode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Shivambhagatdev/Leetcode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
@@ -24,5 +25,14 @@ My LeetCode DSA Solutions
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Shivambhagatdev/Leetcode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Shivambhagatdev/Leetcode/tree/master/0739-daily-temperatures) |
+## String
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Shivambhagatdev/Leetcode/tree/master/0402-remove-k-digits) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Shivambhagatdev/Leetcode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->

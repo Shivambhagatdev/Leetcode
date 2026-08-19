@@ -7,6 +7,7 @@ My LeetCode DSA Solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0001-two-sum) |
+| [0303-range-sum-query-immutable](https://github.com/Shivambhagatdev/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0739-daily-temperatures](https://github.com/Shivambhagatdev/Leetcode/tree/master/0739-daily-temperatures) |
 | [1480-running-sum-of-1d-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -23,6 +24,7 @@ My LeetCode DSA Solutions
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Shivambhagatdev/Leetcode/tree/master/0155-min-stack) |
+| [0303-range-sum-query-immutable](https://github.com/Shivambhagatdev/Leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -40,6 +42,7 @@ My LeetCode DSA Solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Shivambhagatdev/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |

@@ -8,12 +8,14 @@ My LeetCode DSA Solutions
 | ------- |
 | [0001-two-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0001-two-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Shivambhagatdev/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Shivambhagatdev/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/Shivambhagatdev/Leetcode/tree/master/0739-daily-temperatures) |
 | [1480-running-sum-of-1d-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0001-two-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Shivambhagatdev/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Stack
 |  |
 | ------- |
@@ -43,6 +45,7 @@ My LeetCode DSA Solutions
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Shivambhagatdev/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Shivambhagatdev/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |

@@ -12,6 +12,7 @@ My LeetCode DSA Solutions
 | [0560-subarray-sum-equals-k](https://github.com/Shivambhagatdev/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/Shivambhagatdev/Leetcode/tree/master/0739-daily-temperatures) |
 | [1480-running-sum-of-1d-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ My LeetCode DSA Solutions
 | [0525-contiguous-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivambhagatdev/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Two Pointers
 |  |
 | ------- |

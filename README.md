@@ -12,6 +12,7 @@ My LeetCode DSA Solutions
 | [0560-subarray-sum-equals-k](https://github.com/Shivambhagatdev/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Shivambhagatdev/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Shivambhagatdev/Leetcode/tree/master/0739-daily-temperatures) |
+| [0930-binary-subarrays-with-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Shivambhagatdev/Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -21,6 +22,7 @@ My LeetCode DSA Solutions
 | [0001-two-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0001-two-sum) |
 | [0525-contiguous-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivambhagatdev/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 ## Stack
 |  |
 | ------- |
@@ -53,6 +55,7 @@ My LeetCode DSA Solutions
 | [0525-contiguous-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivambhagatdev/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Shivambhagatdev/Leetcode/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Shivambhagatdev/Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -60,4 +63,8 @@ My LeetCode DSA Solutions
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/Shivambhagatdev/Leetcode/tree/master/1768-merge-strings-alternately) |
+## Sliding Window
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->

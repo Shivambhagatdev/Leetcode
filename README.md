@@ -90,5 +90,6 @@ My LeetCode DSA Solutions
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/Shivambhagatdev/Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Shivambhagatdev/Leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->

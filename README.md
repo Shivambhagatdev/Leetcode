@@ -87,4 +87,8 @@ My LeetCode DSA Solutions
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0523-continuous-subarray-sum) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Shivambhagatdev/Leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->

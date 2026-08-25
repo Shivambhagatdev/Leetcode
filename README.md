@@ -83,6 +83,7 @@ My LeetCode DSA Solutions
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shivambhagatdev/Leetcode/tree/master/0013-roman-to-integer) |
+| [0258-add-digits](https://github.com/Shivambhagatdev/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Shivambhagatdev/Leetcode/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Pigeonhole Principle
@@ -97,5 +98,10 @@ My LeetCode DSA Solutions
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Shivambhagatdev/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Shivambhagatdev/Leetcode/tree/master/0412-fizz-buzz) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Shivambhagatdev/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

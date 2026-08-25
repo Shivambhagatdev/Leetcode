@@ -49,6 +49,7 @@ My LeetCode DSA Solutions
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shivambhagatdev/Leetcode/tree/master/0013-roman-to-integer) |
 | [0402-remove-k-digits](https://github.com/Shivambhagatdev/Leetcode/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/Shivambhagatdev/Leetcode/tree/master/0412-fizz-buzz) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shivambhagatdev/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/Shivambhagatdev/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Greedy
@@ -82,6 +83,7 @@ My LeetCode DSA Solutions
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shivambhagatdev/Leetcode/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/Shivambhagatdev/Leetcode/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Pigeonhole Principle
 |  |
@@ -92,4 +94,8 @@ My LeetCode DSA Solutions
 | ------- |
 | [0584-find-customer-referee](https://github.com/Shivambhagatdev/Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Shivambhagatdev/Leetcode/tree/master/0595-big-countries) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Shivambhagatdev/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->

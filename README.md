@@ -7,6 +7,7 @@ My LeetCode DSA Solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0001-two-sum) |
+| [0209-minimum-size-subarray-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Shivambhagatdev/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/0525-contiguous-array) |
@@ -59,6 +60,7 @@ My LeetCode DSA Solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Shivambhagatdev/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/0525-contiguous-array) |
@@ -75,6 +77,7 @@ My LeetCode DSA Solutions
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Shivambhagatdev/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shivambhagatdev/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -104,4 +107,8 @@ My LeetCode DSA Solutions
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Shivambhagatdev/Leetcode/tree/master/0258-add-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->

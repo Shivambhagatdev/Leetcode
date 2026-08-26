@@ -86,6 +86,7 @@ My LeetCode DSA Solutions
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shivambhagatdev/Leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Shivambhagatdev/Leetcode/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/Shivambhagatdev/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Shivambhagatdev/Leetcode/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -111,4 +112,8 @@ My LeetCode DSA Solutions
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Shivambhagatdev/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

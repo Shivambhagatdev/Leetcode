@@ -5,11 +5,11 @@ class Solution {
         int right = arr.length - k;
 
         while (left < right) {
-
-            if (x - arr[left] > arr[left + k] - x) {
-                left++;
+          int mid=(left+right)/2;
+            if (x - arr[mid] > arr[mid + k] - x) {
+                left=mid+1;
             } else {
-                right--;
+                right=mid;
             }
         }
 

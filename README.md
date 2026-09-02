@@ -26,6 +26,7 @@ My LeetCode DSA Solutions
 | [1052-grumpy-bookstore-owner](https://github.com/Shivambhagatdev/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shivambhagatdev/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shivambhagatdev/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Shivambhagatdev/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
@@ -107,6 +108,7 @@ My LeetCode DSA Solutions
 | [1052-grumpy-bookstore-owner](https://github.com/Shivambhagatdev/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shivambhagatdev/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shivambhagatdev/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shivambhagatdev/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Math
 |  |
 | ------- |
@@ -149,6 +151,7 @@ My LeetCode DSA Solutions
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Shivambhagatdev/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/Shivambhagatdev/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shivambhagatdev/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

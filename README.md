@@ -21,6 +21,7 @@ My LeetCode DSA Solutions
 | [0724-find-pivot-index](https://github.com/Shivambhagatdev/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Shivambhagatdev/Leetcode/tree/master/0739-daily-temperatures) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Shivambhagatdev/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shivambhagatdev/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
@@ -38,6 +39,7 @@ My LeetCode DSA Solutions
 | [0525-contiguous-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivambhagatdev/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Shivambhagatdev/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Stack
 |  |
 | ------- |
@@ -78,6 +80,7 @@ My LeetCode DSA Solutions
 | [0713-subarray-product-less-than-k](https://github.com/Shivambhagatdev/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Shivambhagatdev/Leetcode/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Shivambhagatdev/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Shivambhagatdev/Leetcode/tree/master/2574-left-and-right-sum-differences) |

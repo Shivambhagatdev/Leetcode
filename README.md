@@ -13,6 +13,7 @@ My LeetCode DSA Solutions
 | [0219-contains-duplicate-ii](https://github.com/Shivambhagatdev/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Shivambhagatdev/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Shivambhagatdev/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/Shivambhagatdev/Leetcode/tree/master/0414-third-maximum-number) |
 | [0523-continuous-subarray-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivambhagatdev/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -153,6 +154,7 @@ My LeetCode DSA Solutions
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Shivambhagatdev/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/Shivambhagatdev/Leetcode/tree/master/0414-third-maximum-number) |
 | [0658-find-k-closest-elements](https://github.com/Shivambhagatdev/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shivambhagatdev/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Heap (Priority Queue)

@@ -168,6 +168,7 @@ My LeetCode DSA Solutions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shivambhagatdev/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0658-find-k-closest-elements](https://github.com/Shivambhagatdev/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1094-car-pooling](https://github.com/Shivambhagatdev/Leetcode/tree/master/1094-car-pooling) |
 ## Counting
@@ -190,4 +191,20 @@ My LeetCode DSA Solutions
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Shivambhagatdev/Leetcode/tree/master/0733-flood-fill) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shivambhagatdev/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shivambhagatdev/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shivambhagatdev/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shivambhagatdev/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->

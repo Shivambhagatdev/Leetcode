@@ -8,6 +8,7 @@ My LeetCode DSA Solutions
 | ------- |
 | [0001-two-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Shivambhagatdev/Leetcode/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/Shivambhagatdev/Leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Shivambhagatdev/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -202,6 +203,7 @@ My LeetCode DSA Solutions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shivambhagatdev/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Shivambhagatdev/Leetcode/tree/master/0053-maximum-subarray) |
 ## Merge Sort
 |  |
 | ------- |
@@ -210,4 +212,8 @@ My LeetCode DSA Solutions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shivambhagatdev/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Shivambhagatdev/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

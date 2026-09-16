@@ -56,6 +56,7 @@ My LeetCode DSA Solutions
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Shivambhagatdev/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/Shivambhagatdev/Leetcode/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/Shivambhagatdev/Leetcode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Shivambhagatdev/Leetcode/tree/master/0739-daily-temperatures) |
@@ -74,6 +75,7 @@ My LeetCode DSA Solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivambhagatdev/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Shivambhagatdev/Leetcode/tree/master/0013-roman-to-integer) |
+| [0032-longest-valid-parentheses](https://github.com/Shivambhagatdev/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shivambhagatdev/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0402-remove-k-digits](https://github.com/Shivambhagatdev/Leetcode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/Shivambhagatdev/Leetcode/tree/master/0412-fizz-buzz) |
@@ -223,6 +225,7 @@ My LeetCode DSA Solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Shivambhagatdev/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Shivambhagatdev/Leetcode/tree/master/0053-maximum-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shivambhagatdev/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Bucket Sort
@@ -244,5 +247,6 @@ My LeetCode DSA Solutions
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Shivambhagatdev/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shivambhagatdev/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->

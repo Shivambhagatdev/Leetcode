@@ -30,6 +30,7 @@ My LeetCode DSA Solutions
 | [0912-sort-an-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shivambhagatdev/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shivambhagatdev/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Shivambhagatdev/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1094-car-pooling](https://github.com/Shivambhagatdev/Leetcode/tree/master/1094-car-pooling) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shivambhagatdev/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -99,6 +100,7 @@ My LeetCode DSA Solutions
 | [0724-find-pivot-index](https://github.com/Shivambhagatdev/Leetcode/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shivambhagatdev/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shivambhagatdev/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/Shivambhagatdev/Leetcode/tree/master/1094-car-pooling) |
 | [1480-running-sum-of-1d-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
@@ -122,6 +124,7 @@ My LeetCode DSA Solutions
 | [0713-subarray-product-less-than-k](https://github.com/Shivambhagatdev/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Shivambhagatdev/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shivambhagatdev/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Shivambhagatdev/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shivambhagatdev/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shivambhagatdev/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -161,6 +164,7 @@ My LeetCode DSA Solutions
 | [0349-intersection-of-two-arrays](https://github.com/Shivambhagatdev/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/Shivambhagatdev/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Shivambhagatdev/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shivambhagatdev/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Recursion
 |  |
 | ------- |

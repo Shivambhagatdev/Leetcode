@@ -35,6 +35,7 @@ My LeetCode DSA Solutions
 | [1004-max-consecutive-ones-iii](https://github.com/Shivambhagatdev/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Shivambhagatdev/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1094-car-pooling](https://github.com/Shivambhagatdev/Leetcode/tree/master/1094-car-pooling) |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/Shivambhagatdev/Leetcode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shivambhagatdev/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shivambhagatdev/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -173,6 +174,7 @@ My LeetCode DSA Solutions
 | [0658-find-k-closest-elements](https://github.com/Shivambhagatdev/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Shivambhagatdev/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shivambhagatdev/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/Shivambhagatdev/Leetcode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 ## Recursion
 |  |
 | ------- |
@@ -191,6 +193,7 @@ My LeetCode DSA Solutions
 | [0658-find-k-closest-elements](https://github.com/Shivambhagatdev/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/0912-sort-an-array) |
 | [1094-car-pooling](https://github.com/Shivambhagatdev/Leetcode/tree/master/1094-car-pooling) |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/Shivambhagatdev/Leetcode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shivambhagatdev/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Heap (Priority Queue)
 |  |

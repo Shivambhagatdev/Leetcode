@@ -113,6 +113,7 @@ My LeetCode DSA Solutions
 | [0088-merge-sorted-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Shivambhagatdev/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0475-heaters](https://github.com/Shivambhagatdev/Leetcode/tree/master/0475-heaters) |
+| [0633-sum-of-square-numbers](https://github.com/Shivambhagatdev/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Shivambhagatdev/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1768-merge-strings-alternately](https://github.com/Shivambhagatdev/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
@@ -141,6 +142,7 @@ My LeetCode DSA Solutions
 | [0258-add-digits](https://github.com/Shivambhagatdev/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Shivambhagatdev/Leetcode/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/Shivambhagatdev/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -167,6 +169,7 @@ My LeetCode DSA Solutions
 | [0349-intersection-of-two-arrays](https://github.com/Shivambhagatdev/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shivambhagatdev/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0475-heaters](https://github.com/Shivambhagatdev/Leetcode/tree/master/0475-heaters) |
+| [0633-sum-of-square-numbers](https://github.com/Shivambhagatdev/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Shivambhagatdev/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Shivambhagatdev/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shivambhagatdev/Leetcode/tree/master/1004-max-consecutive-ones-iii) |

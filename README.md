@@ -38,6 +38,7 @@ My LeetCode DSA Solutions
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Shivambhagatdev/Leetcode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shivambhagatdev/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shivambhagatdev/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shivambhagatdev/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Shivambhagatdev/Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -58,6 +59,7 @@ My LeetCode DSA Solutions
 | [0904-fruit-into-baskets](https://github.com/Shivambhagatdev/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shivambhagatdev/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shivambhagatdev/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Stack
 |  |
 | ------- |
@@ -106,6 +108,7 @@ My LeetCode DSA Solutions
 | [1004-max-consecutive-ones-iii](https://github.com/Shivambhagatdev/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/Shivambhagatdev/Leetcode/tree/master/1094-car-pooling) |
 | [1480-running-sum-of-1d-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shivambhagatdev/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Shivambhagatdev/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Two Pointers
@@ -133,6 +136,7 @@ My LeetCode DSA Solutions
 | [1052-grumpy-bookstore-owner](https://github.com/Shivambhagatdev/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shivambhagatdev/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shivambhagatdev/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shivambhagatdev/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shivambhagatdev/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Math
 |  |
@@ -175,6 +179,7 @@ My LeetCode DSA Solutions
 | [0713-subarray-product-less-than-k](https://github.com/Shivambhagatdev/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shivambhagatdev/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Shivambhagatdev/Leetcode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shivambhagatdev/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Recursion
 |  |
 | ------- |

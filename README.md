@@ -24,6 +24,7 @@ My LeetCode DSA Solutions
 | [0523-continuous-subarray-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivambhagatdev/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/Shivambhagatdev/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Shivambhagatdev/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Shivambhagatdev/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Shivambhagatdev/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -98,6 +99,7 @@ My LeetCode DSA Solutions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shivambhagatdev/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/Shivambhagatdev/Leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Shivambhagatdev/Leetcode/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/Shivambhagatdev/Leetcode/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Shivambhagatdev/Leetcode/tree/master/0860-lemonade-change) |
 ## Prefix Sum
 |  |

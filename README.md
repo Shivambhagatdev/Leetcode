@@ -37,6 +37,7 @@ My LeetCode DSA Solutions
 | [0930-binary-subarrays-with-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shivambhagatdev/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shivambhagatdev/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Shivambhagatdev/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1052-grumpy-bookstore-owner](https://github.com/Shivambhagatdev/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1094-car-pooling](https://github.com/Shivambhagatdev/Leetcode/tree/master/1094-car-pooling) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Shivambhagatdev/Leetcode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
@@ -101,6 +102,7 @@ My LeetCode DSA Solutions
 | [0455-assign-cookies](https://github.com/Shivambhagatdev/Leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Shivambhagatdev/Leetcode/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Shivambhagatdev/Leetcode/tree/master/0860-lemonade-change) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Shivambhagatdev/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -216,6 +218,7 @@ My LeetCode DSA Solutions
 | [0475-heaters](https://github.com/Shivambhagatdev/Leetcode/tree/master/0475-heaters) |
 | [0658-find-k-closest-elements](https://github.com/Shivambhagatdev/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/0912-sort-an-array) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Shivambhagatdev/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1094-car-pooling](https://github.com/Shivambhagatdev/Leetcode/tree/master/1094-car-pooling) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Shivambhagatdev/Leetcode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shivambhagatdev/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |

@@ -173,6 +173,7 @@ My LeetCode DSA Solutions
 | [0595-big-countries](https://github.com/Shivambhagatdev/Leetcode/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/Shivambhagatdev/Leetcode/tree/master/0620-not-boring-movies) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Shivambhagatdev/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1683-invalid-tweets](https://github.com/Shivambhagatdev/Leetcode/tree/master/1683-invalid-tweets) |
 ## Simulation
 |  |
 | ------- |

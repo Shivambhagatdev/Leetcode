@@ -44,6 +44,7 @@ My LeetCode DSA Solutions
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Shivambhagatdev/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shivambhagatdev/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1710-maximum-units-on-a-truck](https://github.com/Shivambhagatdev/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shivambhagatdev/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Shivambhagatdev/Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -103,6 +104,7 @@ My LeetCode DSA Solutions
 | [0605-can-place-flowers](https://github.com/Shivambhagatdev/Leetcode/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Shivambhagatdev/Leetcode/tree/master/0860-lemonade-change) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Shivambhagatdev/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1710-maximum-units-on-a-truck](https://github.com/Shivambhagatdev/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -226,6 +228,7 @@ My LeetCode DSA Solutions
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Shivambhagatdev/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1094-car-pooling](https://github.com/Shivambhagatdev/Leetcode/tree/master/1094-car-pooling) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/Shivambhagatdev/Leetcode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
+| [1710-maximum-units-on-a-truck](https://github.com/Shivambhagatdev/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shivambhagatdev/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Heap (Priority Queue)
 |  |

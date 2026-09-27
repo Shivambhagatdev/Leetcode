@@ -33,6 +33,7 @@ My LeetCode DSA Solutions
 | [0724-find-pivot-index](https://github.com/Shivambhagatdev/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Shivambhagatdev/Leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Shivambhagatdev/Leetcode/tree/master/0739-daily-temperatures) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Shivambhagatdev/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0860-lemonade-change](https://github.com/Shivambhagatdev/Leetcode/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Shivambhagatdev/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/0912-sort-an-array) |
@@ -75,6 +76,7 @@ My LeetCode DSA Solutions
 | [0155-min-stack](https://github.com/Shivambhagatdev/Leetcode/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/Shivambhagatdev/Leetcode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Shivambhagatdev/Leetcode/tree/master/0739-daily-temperatures) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Shivambhagatdev/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 ## Design
 |  |
 | ------- |
@@ -85,6 +87,7 @@ My LeetCode DSA Solutions
 | ------- |
 | [0402-remove-k-digits](https://github.com/Shivambhagatdev/Leetcode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Shivambhagatdev/Leetcode/tree/master/0739-daily-temperatures) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Shivambhagatdev/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 ## String
 |  |
 | ------- |
@@ -106,6 +109,7 @@ My LeetCode DSA Solutions
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shivambhagatdev/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Shivambhagatdev/Leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Shivambhagatdev/Leetcode/tree/master/0605-can-place-flowers) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Shivambhagatdev/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0860-lemonade-change](https://github.com/Shivambhagatdev/Leetcode/tree/master/0860-lemonade-change) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Shivambhagatdev/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1710-maximum-units-on-a-truck](https://github.com/Shivambhagatdev/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
@@ -232,6 +236,7 @@ My LeetCode DSA Solutions
 | [0455-assign-cookies](https://github.com/Shivambhagatdev/Leetcode/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Shivambhagatdev/Leetcode/tree/master/0475-heaters) |
 | [0658-find-k-closest-elements](https://github.com/Shivambhagatdev/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Shivambhagatdev/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0912-sort-an-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/0912-sort-an-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Shivambhagatdev/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1094-car-pooling](https://github.com/Shivambhagatdev/Leetcode/tree/master/1094-car-pooling) |

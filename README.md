@@ -109,6 +109,7 @@ My LeetCode DSA Solutions
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shivambhagatdev/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Shivambhagatdev/Leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Shivambhagatdev/Leetcode/tree/master/0605-can-place-flowers) |
+| [0670-maximum-swap](https://github.com/Shivambhagatdev/Leetcode/tree/master/0670-maximum-swap) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Shivambhagatdev/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0860-lemonade-change](https://github.com/Shivambhagatdev/Leetcode/tree/master/0860-lemonade-change) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Shivambhagatdev/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -169,6 +170,7 @@ My LeetCode DSA Solutions
 | [0412-fizz-buzz](https://github.com/Shivambhagatdev/Leetcode/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Shivambhagatdev/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0670-maximum-swap](https://github.com/Shivambhagatdev/Leetcode/tree/master/0670-maximum-swap) |
 ## Pigeonhole Principle
 |  |
 | ------- |

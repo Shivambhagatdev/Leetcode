@@ -173,6 +173,7 @@ My LeetCode DSA Solutions
 | [0523-continuous-subarray-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Shivambhagatdev/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/Shivambhagatdev/Leetcode/tree/master/0670-maximum-swap) |
+| [1137-n-th-tribonacci-number](https://github.com/Shivambhagatdev/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -307,6 +308,7 @@ My LeetCode DSA Solutions
 | [0213-house-robber-ii](https://github.com/Shivambhagatdev/Leetcode/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shivambhagatdev/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0435-non-overlapping-intervals](https://github.com/Shivambhagatdev/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [1137-n-th-tribonacci-number](https://github.com/Shivambhagatdev/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -323,6 +325,7 @@ My LeetCode DSA Solutions
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shivambhagatdev/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [1137-n-th-tribonacci-number](https://github.com/Shivambhagatdev/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Bracket Sequences
 |  |
 | ------- |

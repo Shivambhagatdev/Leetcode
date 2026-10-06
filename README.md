@@ -166,6 +166,7 @@ My LeetCode DSA Solutions
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shivambhagatdev/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Shivambhagatdev/Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Shivambhagatdev/Leetcode/tree/master/0062-unique-paths) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shivambhagatdev/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Shivambhagatdev/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Shivambhagatdev/Leetcode/tree/master/0412-fizz-buzz) |
@@ -301,6 +302,7 @@ My LeetCode DSA Solutions
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Shivambhagatdev/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Shivambhagatdev/Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Shivambhagatdev/Leetcode/tree/master/0062-unique-paths) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shivambhagatdev/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0213-house-robber-ii](https://github.com/Shivambhagatdev/Leetcode/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shivambhagatdev/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -334,4 +336,8 @@ My LeetCode DSA Solutions
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Shivambhagatdev/Leetcode/tree/master/0455-assign-cookies) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Shivambhagatdev/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

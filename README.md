@@ -11,6 +11,7 @@ My LeetCode DSA Solutions
 | [0053-maximum-subarray](https://github.com/Shivambhagatdev/Leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shivambhagatdev/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/Shivambhagatdev/Leetcode/tree/master/0135-candy) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Shivambhagatdev/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -105,6 +106,7 @@ My LeetCode DSA Solutions
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shivambhagatdev/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/Shivambhagatdev/Leetcode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/Shivambhagatdev/Leetcode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Shivambhagatdev/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shivambhagatdev/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |

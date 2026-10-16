@@ -8,6 +8,7 @@ My LeetCode DSA Solutions
 | ------- |
 | [0001-two-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Shivambhagatdev/Leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Shivambhagatdev/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shivambhagatdev/Leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shivambhagatdev/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -75,6 +76,7 @@ My LeetCode DSA Solutions
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Shivambhagatdev/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Shivambhagatdev/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Shivambhagatdev/Leetcode/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/Shivambhagatdev/Leetcode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Shivambhagatdev/Leetcode/tree/master/0739-daily-temperatures) |
@@ -87,6 +89,7 @@ My LeetCode DSA Solutions
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shivambhagatdev/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/Shivambhagatdev/Leetcode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Shivambhagatdev/Leetcode/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Shivambhagatdev/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
@@ -138,6 +141,7 @@ My LeetCode DSA Solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shivambhagatdev/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Shivambhagatdev/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Shivambhagatdev/Leetcode/tree/master/0455-assign-cookies) |
@@ -304,6 +308,7 @@ My LeetCode DSA Solutions
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Shivambhagatdev/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Shivambhagatdev/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shivambhagatdev/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Shivambhagatdev/Leetcode/tree/master/0062-unique-paths) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shivambhagatdev/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |

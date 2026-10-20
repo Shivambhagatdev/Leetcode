@@ -19,6 +19,7 @@ My LeetCode DSA Solutions
 | [0219-contains-duplicate-ii](https://github.com/Shivambhagatdev/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Shivambhagatdev/Leetcode/tree/master/0229-majority-element-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Shivambhagatdev/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0321-create-maximum-number](https://github.com/Shivambhagatdev/Leetcode/tree/master/0321-create-maximum-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shivambhagatdev/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shivambhagatdev/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -79,6 +80,7 @@ My LeetCode DSA Solutions
 | [0032-longest-valid-parentheses](https://github.com/Shivambhagatdev/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shivambhagatdev/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Shivambhagatdev/Leetcode/tree/master/0155-min-stack) |
+| [0321-create-maximum-number](https://github.com/Shivambhagatdev/Leetcode/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/Shivambhagatdev/Leetcode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Shivambhagatdev/Leetcode/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Shivambhagatdev/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
@@ -91,6 +93,7 @@ My LeetCode DSA Solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shivambhagatdev/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0321-create-maximum-number](https://github.com/Shivambhagatdev/Leetcode/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/Shivambhagatdev/Leetcode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Shivambhagatdev/Leetcode/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Shivambhagatdev/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
@@ -111,6 +114,7 @@ My LeetCode DSA Solutions
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shivambhagatdev/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Shivambhagatdev/Leetcode/tree/master/0135-candy) |
+| [0321-create-maximum-number](https://github.com/Shivambhagatdev/Leetcode/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/Shivambhagatdev/Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Shivambhagatdev/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -146,6 +150,7 @@ My LeetCode DSA Solutions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shivambhagatdev/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0321-create-maximum-number](https://github.com/Shivambhagatdev/Leetcode/tree/master/0321-create-maximum-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shivambhagatdev/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Shivambhagatdev/Leetcode/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Shivambhagatdev/Leetcode/tree/master/0475-heaters) |

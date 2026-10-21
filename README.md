@@ -22,6 +22,7 @@ My LeetCode DSA Solutions
 | [0321-create-maximum-number](https://github.com/Shivambhagatdev/Leetcode/tree/master/0321-create-maximum-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shivambhagatdev/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shivambhagatdev/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0391-perfect-rectangle](https://github.com/Shivambhagatdev/Leetcode/tree/master/0391-perfect-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Shivambhagatdev/Leetcode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Shivambhagatdev/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -66,6 +67,7 @@ My LeetCode DSA Solutions
 | [0219-contains-duplicate-ii](https://github.com/Shivambhagatdev/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Shivambhagatdev/Leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Shivambhagatdev/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0391-perfect-rectangle](https://github.com/Shivambhagatdev/Leetcode/tree/master/0391-perfect-rectangle) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shivambhagatdev/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/0525-contiguous-array) |
@@ -183,6 +185,7 @@ My LeetCode DSA Solutions
 | [0062-unique-paths](https://github.com/Shivambhagatdev/Leetcode/tree/master/0062-unique-paths) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shivambhagatdev/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Shivambhagatdev/Leetcode/tree/master/0258-add-digits) |
+| [0391-perfect-rectangle](https://github.com/Shivambhagatdev/Leetcode/tree/master/0391-perfect-rectangle) |
 | [0412-fizz-buzz](https://github.com/Shivambhagatdev/Leetcode/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Shivambhagatdev/Leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -360,4 +363,12 @@ My LeetCode DSA Solutions
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Shivambhagatdev/Leetcode/tree/master/0062-unique-paths) |
+## Geometry
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/Shivambhagatdev/Leetcode/tree/master/0391-perfect-rectangle) |
+## Sweep Line
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/Shivambhagatdev/Leetcode/tree/master/0391-perfect-rectangle) |
 <!---LeetCode Topics End-->

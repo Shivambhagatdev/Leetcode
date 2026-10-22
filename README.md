@@ -108,6 +108,7 @@ My LeetCode DSA Solutions
 | [0241-different-ways-to-add-parentheses](https://github.com/Shivambhagatdev/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0402-remove-k-digits](https://github.com/Shivambhagatdev/Leetcode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/Shivambhagatdev/Leetcode/tree/master/0412-fizz-buzz) |
+| [0420-strong-password-checker](https://github.com/Shivambhagatdev/Leetcode/tree/master/0420-strong-password-checker) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shivambhagatdev/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shivambhagatdev/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/Shivambhagatdev/Leetcode/tree/master/1768-merge-strings-alternately) |
@@ -119,6 +120,7 @@ My LeetCode DSA Solutions
 | [0321-create-maximum-number](https://github.com/Shivambhagatdev/Leetcode/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/Shivambhagatdev/Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0420-strong-password-checker](https://github.com/Shivambhagatdev/Leetcode/tree/master/0420-strong-password-checker) |
 | [0435-non-overlapping-intervals](https://github.com/Shivambhagatdev/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shivambhagatdev/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Shivambhagatdev/Leetcode/tree/master/0455-assign-cookies) |
@@ -272,6 +274,7 @@ My LeetCode DSA Solutions
 | [0023-merge-k-sorted-lists](https://github.com/Shivambhagatdev/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shivambhagatdev/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0420-strong-password-checker](https://github.com/Shivambhagatdev/Leetcode/tree/master/0420-strong-password-checker) |
 | [0658-find-k-closest-elements](https://github.com/Shivambhagatdev/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/0912-sort-an-array) |
 | [1094-car-pooling](https://github.com/Shivambhagatdev/Leetcode/tree/master/1094-car-pooling) |

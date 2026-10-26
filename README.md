@@ -185,6 +185,7 @@ My LeetCode DSA Solutions
 | [0013-roman-to-integer](https://github.com/Shivambhagatdev/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Shivambhagatdev/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Shivambhagatdev/Leetcode/tree/master/0062-unique-paths) |
+| [0089-gray-code](https://github.com/Shivambhagatdev/Leetcode/tree/master/0089-gray-code) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Shivambhagatdev/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Shivambhagatdev/Leetcode/tree/master/0258-add-digits) |
 | [0391-perfect-rectangle](https://github.com/Shivambhagatdev/Leetcode/tree/master/0391-perfect-rectangle) |
@@ -374,4 +375,12 @@ My LeetCode DSA Solutions
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/Shivambhagatdev/Leetcode/tree/master/0391-perfect-rectangle) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Shivambhagatdev/Leetcode/tree/master/0089-gray-code) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Shivambhagatdev/Leetcode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->

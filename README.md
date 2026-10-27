@@ -25,6 +25,7 @@ My LeetCode DSA Solutions
 | [0391-perfect-rectangle](https://github.com/Shivambhagatdev/Leetcode/tree/master/0391-perfect-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Shivambhagatdev/Leetcode/tree/master/0414-third-maximum-number) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/Shivambhagatdev/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shivambhagatdev/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Shivambhagatdev/Leetcode/tree/master/0455-assign-cookies) |
@@ -68,6 +69,7 @@ My LeetCode DSA Solutions
 | [0229-majority-element-ii](https://github.com/Shivambhagatdev/Leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Shivambhagatdev/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0391-perfect-rectangle](https://github.com/Shivambhagatdev/Leetcode/tree/master/0391-perfect-rectangle) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shivambhagatdev/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/0525-contiguous-array) |
@@ -383,4 +385,9 @@ My LeetCode DSA Solutions
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Shivambhagatdev/Leetcode/tree/master/0089-gray-code) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->

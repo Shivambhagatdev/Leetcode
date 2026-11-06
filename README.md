@@ -13,6 +13,7 @@ My LeetCode DSA Solutions
 | [0088-merge-sorted-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shivambhagatdev/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Shivambhagatdev/Leetcode/tree/master/0135-candy) |
+| [0200-number-of-islands](https://github.com/Shivambhagatdev/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivambhagatdev/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Shivambhagatdev/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivambhagatdev/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -292,18 +293,21 @@ My LeetCode DSA Solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Shivambhagatdev/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Shivambhagatdev/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Shivambhagatdev/Leetcode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Shivambhagatdev/Leetcode/tree/master/0841-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Shivambhagatdev/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Shivambhagatdev/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Shivambhagatdev/Leetcode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Shivambhagatdev/Leetcode/tree/master/0841-keys-and-rooms) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Shivambhagatdev/Leetcode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shivambhagatdev/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/Shivambhagatdev/Leetcode/tree/master/0733-flood-fill) |
 ## Linked List
@@ -402,5 +406,6 @@ My LeetCode DSA Solutions
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Shivambhagatdev/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Shivambhagatdev/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->

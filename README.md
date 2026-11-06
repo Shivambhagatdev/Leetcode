@@ -292,11 +292,13 @@ My LeetCode DSA Solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Shivambhagatdev/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Shivambhagatdev/Leetcode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Shivambhagatdev/Leetcode/tree/master/0841-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Shivambhagatdev/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Shivambhagatdev/Leetcode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Shivambhagatdev/Leetcode/tree/master/0841-keys-and-rooms) |
 ## Matrix
@@ -395,5 +397,10 @@ My LeetCode DSA Solutions
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Shivambhagatdev/Leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Shivambhagatdev/Leetcode/tree/master/0841-keys-and-rooms) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Shivambhagatdev/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->

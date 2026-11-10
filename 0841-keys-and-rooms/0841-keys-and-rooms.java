@@ -3,17 +3,22 @@ class Solution {
        int n=rooms.size();
        boolean[] visited=new boolean[n];
        visited[0]=true;
-       dfs(0,rooms,visited);
+       bfs(0,rooms,visited);
        for(int i=0;i<n;i++){
         if(!visited[i]) return false;
        }
        return true;
     }
-    public void dfs(int i,List<List<Integer>> rooms,boolean[] visited){
-        visited[i]=true;
-        for(int num: rooms.get(i)){
-           if(!visited[num]) dfs(num,rooms,visited);
+    public void bfs(int i,List<List<Integer>> rooms,boolean[] visited){
+      Queue<Integer> q=new LinkedList<>();
+      q.add(i);
+      while(!q.isEmpty()){
+        int front=q.remove();
+        for(int num:rooms.get(front)){
+            if(!visited[num]){
+                  q.add(num);
+                    visited[num]=true;
+            }
         }
-    }
-
-}
+      }
+    }}
